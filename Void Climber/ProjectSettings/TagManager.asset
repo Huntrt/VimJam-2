@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Player Attack
+  - Boss
+  - Boss Attack
+  - Invincible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Border
+  - Boss
+  - Ignore All Except Border
+  - Ignore All Except Player
+  - Ignore All Except Boss
+  - Ignore All
+  - Ignore All Except Player Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2968417281
+    locked: 0
+  - name: Entity
+    uniqueID: 3041726183
+    locked: 0
